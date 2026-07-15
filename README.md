@@ -1,4 +1,3 @@
-<img width="1690" height="1489" alt="image" src="https://github.com/user-attachments/assets/84432df5-fede-4083-968e-d2aed4e23007" /># Observational-Research-Protocol
 # RCHOC INQ-10 Study
 
 Screening and analysis code for an observational protocol at the
